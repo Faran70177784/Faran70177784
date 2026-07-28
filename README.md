@@ -158,31 +158,6 @@ Designed the complete schematic, PCB layout, and 3D model of the Arduino UNO R3 
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faran70177784&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faran70177784&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
-</p>
-
----
-
-## 🔥 GitHub Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Faran70177784&theme=tokyonight&hide_border=true&border_radius=10" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Faran70177784&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
-</p>
-
----
-
 ## 🏆 Achievements
 
 - 🚀 Successfully completed multiple AI Internship projects at DecodeLabs.
@@ -190,5 +165,30 @@ Designed the complete schematic, PCB layout, and 3D model of the Arduino UNO R3 
 - 📊 Built interactive analytics dashboards using Python and Streamlit.
 - 🛠️ Designed and developed custom PCB layouts using KiCad.
 - 💻 Continuously improving through hands-on software engineering and open-source projects.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Faran70177784&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faran70177784&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Faran70177784&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Faran70177784&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+</p>
 
 ---
