@@ -1,4 +1,6 @@
-## Hi there 👋
+# 👋 Hi, I'm Syed Faran Ali
+
+![GitHub Banner](banner.png.jpeg)
 
 <!--
 **Faran70177784/Faran70177784** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
