@@ -183,3 +183,56 @@ Designed the complete schematic, PCB layout, and 3D model of the Arduino UNO R3 
 </p>
 
 ---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Faran70177784">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/http://www.linkedin.com/in/syed-faran-ali/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:alifaransyed@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🎯 Career Goals
+
+- 🤖 Build intelligent AI-powered applications.
+- 🦾 Develop innovative robotics and embedded systems.
+- 📊 Create scalable data-driven solutions.
+- 🌍 Contribute to impactful open-source projects.
+- 🚀 Continuously learn and grow as an AI & Robotics Engineer.
+
+---
+
+## 💬 Favorite Quote
+
+> **"The best way to predict the future is to invent it."**  
+> — Alan Kay
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Faran70177784&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my GitHub Profile!
+
+If you like my projects, consider giving them a ⭐ and following my journey in **Artificial Intelligence, Robotics, and Software Engineering**.
+
+🚀 *Building Intelligent Systems for the Future.*
+
+</div>
