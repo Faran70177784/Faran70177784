@@ -95,8 +95,7 @@ Currently, I'm expanding my expertise through hands-on projects in:
 
 An AI-powered recommendation system that analyzes user preferences and historical e-commerce data to generate personalized product recommendations using weighted similarity scoring.
 
-🔗 **Repository:**  
-https://github.com/Faran70177784/AI-Product-Recommendation-System
+🔗 **Repository:** [AI Product Recommendation System](https://github.com/Faran70177784/AI-Product-Recommendation-System)
 
 ---
 
@@ -105,8 +104,7 @@ https://github.com/Faran70177784/AI-Product-Recommendation-System
 
 A rule-based conversational AI chatbot that responds to user queries using predefined logic and intelligent pattern matching.
 
-🔗 **Repository:**  
-https://github.com/Faran70177784/DecodeLabs-Internship
+🔗 **Repository:** [Rule-Based AI Chatbot](https://github.com/Faran70177784/DecodeLabs-Internship)
 
 ---
 
@@ -115,8 +113,7 @@ https://github.com/Faran70177784/DecodeLabs-Internship
 
 A professional sports analytics platform that provides interactive dashboards, KPI visualization, player analytics, and AI-driven insights using Streamlit.
 
-🔗 **Repository:**  
-https://github.com/Faran70177784/sports-intelligence-platform
+🔗 **Repository:** [Sports Intelligence Platform](https://github.com/Faran70177784/sports-intelligence-platform)
 
 ---
 
@@ -131,5 +128,42 @@ Designed and developed a wireless robotic arm controlled through real-time hand 
 > **KiCad • PCB Design • Electronics**
 
 Designed the complete schematic, PCB layout, and 3D model of the Arduino UNO R3 SMD development board using KiCad.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Science (BS)**  
+**Robotics & Artificial Intelligence**  
+**The University of Lahore (UOL), Pakistan**  
+📅 **2024 – 2028**
+
+- 📚 Focus Areas:
+  - Artificial Intelligence
+  - Robotics
+  - Machine Learning
+  - Embedded Systems
+  - Software Engineering
+  - Data Structures & Algorithms
+  - Computer Vision
+
+---
+
+## 📜 Certifications
+
+- 🏅 12+ Professional Certifications from Coursera
+- 🏅 Skill Development Centre – University of the Punjab
+- 🏅 Ilm-o-Hunar Foundation
+- 📚 Continuous learning in Artificial Intelligence, Python, Data Science, and Software Development
+
+---
+
+## 🏆 Achievements
+
+- 🚀 Successfully completed multiple AI Internship projects at DecodeLabs.
+- 🤖 Developed AI, Robotics, and Embedded Systems projects.
+- 📊 Built interactive analytics dashboards using Python and Streamlit.
+- 🛠️ Designed and developed custom PCB layouts using KiCad.
+- 💻 Continuously improving through hands-on software engineering and open-source projects.
 
 ---
