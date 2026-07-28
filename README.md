@@ -171,8 +171,7 @@ Designed the complete schematic, PCB layout, and 3D model of the Arduino UNO R3 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Faran70177784&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faran70177784&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Faran70177784&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -181,14 +180,6 @@ Designed the complete schematic, PCB layout, and 3D model of the Arduino UNO R3 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Faran70177784&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Faran70177784&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
 ---
