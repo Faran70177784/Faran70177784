@@ -87,3 +87,49 @@ Currently, I'm expanding my expertise through hands-on projects in:
 </p>
 
 ---
+
+## 🚀 Featured Projects
+
+### 🤖 AI Product Recommendation System
+> **Python • Artificial Intelligence • Content-Based Filtering • Recommendation Engine**
+
+An AI-powered recommendation system that analyzes user preferences and historical e-commerce data to generate personalized product recommendations using weighted similarity scoring.
+
+🔗 **Repository:**  
+https://github.com/Faran70177784/AI-Product-Recommendation-System
+
+---
+
+### 💬 Rule-Based AI Chatbot
+> **Python • Artificial Intelligence • Natural Language Processing**
+
+A rule-based conversational AI chatbot that responds to user queries using predefined logic and intelligent pattern matching.
+
+🔗 **Repository:**  
+https://github.com/Faran70177784/DecodeLabs-Internship
+
+---
+
+### 📊 Sports Intelligence Platform
+> **Python • Streamlit • Data Analytics • AI Dashboard**
+
+A professional sports analytics platform that provides interactive dashboards, KPI visualization, player analytics, and AI-driven insights using Streamlit.
+
+🔗 **Repository:**  
+https://github.com/Faran70177784/sports-intelligence-platform
+
+---
+
+### 🦾 Hand Gesture Controlled Robotic Arm
+> **Arduino • ESP32 • NRF24L01 • MPU6050 • Embedded Systems**
+
+Designed and developed a wireless robotic arm controlled through real-time hand gestures using motion sensors and RF communication.
+
+---
+
+### 💻 Arduino UNO R3 PCB Design
+> **KiCad • PCB Design • Electronics**
+
+Designed the complete schematic, PCB layout, and 3D model of the Arduino UNO R3 SMD development board using KiCad.
+
+---
